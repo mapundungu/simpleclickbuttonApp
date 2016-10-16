@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     }
 
     @IBOutlet weak var ClickMeButton: UIButton!
+    @IBOutlet weak var QuestinButton: UIButton!
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
